@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Vikas M S 
+I am .Net Devoloper
 
 <!--
 **VikasBenki/VikasBenki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
